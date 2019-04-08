@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<package format="2">
+
+  <name>anymal_b_simple_description</name>
+  <version>0.0.1</version>
+  <description>ANYmal Description Package</description>
+
+  <license>BSD-3</license>
+
+  <author email="lisler@anybotics.com">Linus Isler</author>
+  <maintainer email="lisler@anybotics.com">Linus Isler</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
