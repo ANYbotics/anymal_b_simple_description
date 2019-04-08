@@ -1,5 +1,4 @@
 # ANYmal B Robot Description (URDF)
-
 ## Overview
 
 This package contains a simplified robot description (URDF) of the [ANYmal B quadrupedal robot](https://www.anybotics.com/anymal) developed by [ANYbotics](https://www.anybotics.com).
@@ -7,6 +6,8 @@ This package contains a simplified robot description (URDF) of the [ANYmal B qua
 The extended ANYmal B robot description, simulation, and control software is available exclusively to members of the [ANYmal Research community](https://www.anymal-research.org). For more information and membership applications, contact info@anybotics.com.
 
 **Author & Maintainer: Linus Isler, [ANYbotics](https://www.anybotics.com)**
+
+[![ANYmal B Robot Description](doc/anymal_b_rviz.png)](doc/anymal_b_rviz.png)
 
 ## License
 
