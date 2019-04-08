@@ -7,7 +7,7 @@
   <!-- Set robot description path -->
   <arg name="description_file"         default="$(find anymal_b_simple_description)/urdf/anymal.urdf"/>
   <!-- Joint state topic name -->
-  <arg name="joint_states_topic"       default="/state_estimator/joint_states"/>
+  <arg name="joint_states_topic"       default="/joint_states"/>
 
   <!-- Load robot description -->
   <include file="$(find anymal_b_simple_description)/launch/load.launch">

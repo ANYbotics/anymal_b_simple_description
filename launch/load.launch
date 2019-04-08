@@ -9,6 +9,6 @@
 
 
   <!-- Run xacro script to generate ANYmal description -->
-  <param name="$(arg description_name)" command="$(find xacro)/xacro $(arg description_file)"/>
+  <param name="$(arg description_name)" textfile="$(arg description_file)"/>
 
 </launch>
