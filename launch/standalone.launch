@@ -3,7 +3,7 @@
 <launch>
 
   <!-- Name of the robot description parameter -->
-  <arg name="description_name"         default="quadruped_description"/>
+  <arg name="description_name"         default="anymal_description"/>
   <!-- Set robot description path -->
   <arg name="description_file"         default="$(find anymal_b_simple_description)/urdf/anymal.urdf"/>
   <!-- Joint state topic name -->

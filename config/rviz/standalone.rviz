@@ -174,7 +174,7 @@ Visualization Manager:
           Show Trail: false
           Value: true
       Name: RobotModel
-      Robot Description: quadruped_description
+      Robot Description: anymal_description
       TF Prefix: ""
       Update Interval: 0
       Value: true
