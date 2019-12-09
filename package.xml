@@ -13,4 +13,6 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
+  <test_depend>roslaunch</test_depend>
+
 </package>
