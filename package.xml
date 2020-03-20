@@ -3,7 +3,7 @@
 <package format="2">
 
   <name>anymal_b_simple_description</name>
-  <version>0.0.1</version>
+  <version>1.0.0</version>
   <description>ANYmal Description Package</description>
 
   <license>BSD-3</license>
