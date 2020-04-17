@@ -16,7 +16,7 @@
   </include>
 
   <!-- Joint state publisher -->
-  <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" output="screen">
+  <node name="joint_state_publisher" pkg="joint_state_publisher_gui" type="joint_state_publisher_gui" output="screen">
     <param name="use_gui"           value="true"/>
     <param name="rate"              value="100"/>
     <remap from="robot_description" to="$(arg description_name)"/>
