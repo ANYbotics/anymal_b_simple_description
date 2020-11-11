@@ -1,15 +1,11 @@
 cmake_minimum_required(VERSION 3.5.1)
 project(anymal_b_simple_description)
 
-find_package(catkin REQUIRED
-  COMPONENTS
-)
+find_package(catkin)
 
-catkin_package(
-  CATKIN_DEPENDS
-)
+catkin_package()
 
-install(DIRECTORY launch urdf config
+install(DIRECTORY config launch meshes urdf
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
 
